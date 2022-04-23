@@ -30,7 +30,7 @@
 [<img align="left" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />][openCV]
 [<img align="left" alt="SQL" width="33px" src="https://camo.githubusercontent.com/b65f9026a0274fb351e57ed757a7c01e2538734b2278c067b5d6ca4650a6e4ce/68747470733a2f2f6c6162732e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6d7973716c2d6c6f676f2e737667" />][mysql]
 [<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][PowerBI]
-<br/>
+
 <br/>
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][pycharm]
