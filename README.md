@@ -36,11 +36,9 @@
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][pycharm]
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
 <br/>
-<br/>
-<br/>
 
 [<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
-
+<br/>
 <hr/>
 
 ### 💳 Language Card
