@@ -35,10 +35,15 @@
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][pycharm]
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
-<br/>
 
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
 <br/>
+[<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
+[<img align="left" alt="Django" width="33px" src="https://i.imgur.com/6HTssDd.png" />][django]
+[<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+<br/>
+[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
+
 <hr/>
 
 ### 💳 Language Card
@@ -60,3 +65,6 @@
 [pycharm]:https://www.jetbrains.com/pycharm/
 [PowerBI]:https://powerbi.microsoft.com/en-us/
 [git]:https://git-scm.com/
+[R]:https://www.r-project.org/
+[vscode]:https://code.visualstudio.com/
+[django]:https://www.djangoproject.com/
