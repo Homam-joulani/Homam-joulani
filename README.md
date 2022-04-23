@@ -36,6 +36,7 @@
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][pycharm]
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
 <br/>
+[<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
 <br/>
 
 [<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
@@ -61,3 +62,4 @@
 [pycharm]:https://www.jetbrains.com/pycharm/
 [PowerBI]:https://powerbi.microsoft.com/en-us/
 [git]:https://git-scm.com/
+[R]:https://www.r-project.org/
