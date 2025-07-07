@@ -2,7 +2,7 @@
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
 <hr/>
 
-### I am a Data Scientist
+### I am a Software Engineer
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m currently learning Machine Learning and deep learning.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
